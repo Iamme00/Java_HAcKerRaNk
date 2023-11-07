@@ -23,7 +23,7 @@ public class javaloopII{
             for (int j = 0; j < n[k]; j++) {
                 System.out.print(d[j] + " ");
             }
-            System.out.println();
-        sc.close();
     }
+    sc.close();
+}
 }
