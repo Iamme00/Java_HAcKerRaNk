@@ -8,5 +8,6 @@ public class EOF{
             num++;
             System.out.printf("%d %s\n",num,sc.nextLine());
         }
+        sc.close();
     }
 }
