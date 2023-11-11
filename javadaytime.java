@@ -2,7 +2,6 @@ import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Date;
 import java.io.*;
-import java.util.Calendar;
 import java.text.ParseException;
 
 class Result {
